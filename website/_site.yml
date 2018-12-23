@@ -1,0 +1,9 @@
+name: "Webby"
+
+navbar:
+  title: "Webby"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
